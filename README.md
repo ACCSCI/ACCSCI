@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Python(Flask),JavaScript
-- Welcome to visit my website [ACCSCI](accsci.github.io)
+- Welcome to visit my website [Blog](https://accsci.github.io/)
