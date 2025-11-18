@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/accsci/banner-assets/main/ai-native-banner.svg" width="100%" />
 </p>
 
-# 🌌 **AI Native** Full-Stack Web Developer (Py + TS)
-
-& Artistic Experience Designer
+# 🌌 **AI Native** Full-Stack Web Developer (Py + TS) & Artistic Experience Designer
 
 <div align="center">
 
