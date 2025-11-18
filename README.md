@@ -7,7 +7,7 @@
 🎨 **Crafting AI-native experiences with real interaction, motion, and soul**
 🧠 **Merging cutting-edge AI with clean architecture & immersive design**
 
-[🌐 Visit My Blog](https://accsci.github.io/) · [📬 Contact Me](mailto:your@email.com)
+[🌐 Visit My Blog](https://accsci.github.io/) · [📬 Contact Me](mailto:marco_taylor@foxmail.com)
 
 </div>
 
@@ -60,6 +60,6 @@ I design and develop intelligent, visually engaging web platforms by combining:
 
 * 🌐 **Blog:** [https://accsci.github.io/](https://accsci.github.io/)
 * 🧪 **Projects:** pinned below
-* 📫 **Email:** [your@email.com](mailto:your@email.com)
+* 📫 **Email:** [nonesimple@yandex.com](mailto:nonesimple@yandex.com)
 
 ---
