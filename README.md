@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Python(Flask),JavaScript
+- 💫 AI Native FullStack Web Developer & Artistic Experience Designer
+- I build AI-native web applications with a strong focus on interaction design and artistic user experience.
 - Welcome to visit my website [Blog](https://accsci.github.io/)
